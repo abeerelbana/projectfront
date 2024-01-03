@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projectfront/static/css/main.5f0ae294.css",
+    "main.js": "/projectfront/static/js/main.a52821a2.js",
+    "static/media/wallpapers.png": "/projectfront/static/media/wallpapers.71c35e4b5fa29588ff19.png",
+    "index.html": "/projectfront/index.html",
+    "main.5f0ae294.css.map": "/projectfront/static/css/main.5f0ae294.css.map",
+    "main.a52821a2.js.map": "/projectfront/static/js/main.a52821a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0ae294.css",
+    "static/js/main.a52821a2.js"
+  ]
+}
